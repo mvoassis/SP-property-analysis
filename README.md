@@ -34,3 +34,6 @@
 * data_sale_censo.csv - Merged dataset (if you want to start running from 'Predicting Property Values' section) 
 
 ***
+
+![alt text](https://github.com/mvoassis/SP-property-analysis/map - most cheap and expensive neighborhoods.png?raw=true)
+
