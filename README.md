@@ -35,5 +35,4 @@
 
 ***
 
-![alt text](https://github.com/mvoassis/SP-property-analysis/map - most cheap and expensive neighborhoods.png?raw=true)
-
+![Screenshot](map - most cheap and expensive neighborhoods.png)
