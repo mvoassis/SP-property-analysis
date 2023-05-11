@@ -35,4 +35,4 @@
 
 ***
 
-![Screenshot](map - most cheap and expensive neighborhoods.png)
+![Screenshot](map_cheap_and_expensive_neighborhoods.png)
