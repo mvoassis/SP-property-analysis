@@ -35,7 +35,11 @@
 
 * enderecos.csv - Address dataset file ([Download here](https://drive.google.com/file/d/1OBsHwS93BYs9LMFVlxnRIF2eiRXLbfTM/view?usp=sharing))
 * 35SEE250GC_SIR.{dbf,prj,shp,shx} - SP Geolocation dataset (all files needed) ([Download here](https://drive.google.com/file/d/1dItDODXq7WYrY_5WVpMn7vcNsRu9Rt4p/view?usp=sharing))
-* data_sale_censo.csv - Merged dataset (if you want to start running from 'Predicting Property Values' section) 
+* data_sale_censo.csv - Merged dataset (if you want to start running from 'Predicting Property Values' section)
+* models - Folder containing the pickle files for Voting and Gradient Boosting trained models.
+* src/app/main.py - API file
+* Dockerfile
+* requirements.txt
 
 ***
 
