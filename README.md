@@ -1,4 +1,4 @@
-# São Paulo Property Analysis
+# São Paulo - Real Estate Analysis - Price Prediction 
 ## Marcos V. O. Assis (mvoassis@gmail.com)
 
 ***
