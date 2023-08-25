@@ -3,7 +3,9 @@
 
 ***
 
-* [Test the API - Simple WEB app calling GCP](https://docs.ufpr.br/~marcos.assis/price_pred_api.html) ***
+> ## [**-> Test the API - Simple WEB app calling GCP**](https://docs.ufpr.br/~marcos.assis/price_pred_api.html) ***
+
+Simple WEB app developed to showcase the prediction operation through the GCP API. 
 
 > ## Objectives:
 
