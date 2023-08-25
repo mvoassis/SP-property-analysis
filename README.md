@@ -3,6 +3,8 @@
 
 ***
 
+* [Test the API - Simple WEB app calling GCP](https://docs.ufpr.br/~marcos.assis/price_pred_api.html) ***
+
 > ## Objectives:
 
 1.   Perform a descriptive analysis to generate insights about São Paulo's properties.
@@ -25,6 +27,8 @@
 > * Finally, merge 'Properties Dataset' with 'IBGE Dataset', based on the Census Sector ID. 
 3. Implement and test different Regression Algorithms to predict property Value based on different features sets.
 4. Discussion and conclusions on the achieved results.
+5. Implemented the prediction solution as an API, using Python and Flask.
+6. Deployed the API to Google Cloud Platform (GCP), using Docker and Google Cloud Run.
 
 
 > ## Files: 
